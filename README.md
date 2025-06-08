@@ -1,0 +1,1 @@
+# rust-sha1-cracker
