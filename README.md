@@ -16,6 +16,6 @@ cd sha1-cracker
 cargo build --release
 ```
 
-## Ussage
+## 📌Usage
 
 ./target/release/sha1_cracker <wordlist.txt> <sha1_hash>
